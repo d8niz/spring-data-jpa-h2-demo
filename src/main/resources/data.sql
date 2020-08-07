@@ -1,0 +1,1 @@
+insert into contact values (101, 'Rumelihisari Mah. Bebekyolu Sok. No:17 D:10', 'Deniz', '5323317108');
