@@ -7,15 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<p> Enter contact information down below </p>
-	<form action="addContact">
-		<input type="text" id="cid" name="cid" placeholder="cid"><br>
-		<input type="text" id="name" name="name" placeholder="name"><br>
-		<input type="text" id="phone" name="phone" placeholder="phone"><br>
-		<input type="text" id="address" name="address" placeholder="address"><br>
-		<input type="submit"><br>		
-	</form>
-	
+
 		<p> Enter contact id down below </p>
 	<form action="getContact">
 		<input type="text" id="cid" name="cid" placeholder="cid"><br>
